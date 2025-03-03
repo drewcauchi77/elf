@@ -60,6 +60,11 @@
         "id": "square-11",
         "name": "sink",
         "position": "pos-3"
+      },
+      {
+        "id": "square-12",
+        "name": "blank",
+        "position": "pos-1"
       }
     ]
   },
