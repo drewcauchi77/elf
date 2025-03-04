@@ -1,0 +1,77 @@
+{
+  "id": "game-2",
+  "isDone": false,
+  "levelIndex": 1,
+  "numberOfLevels": 5,
+  "board": {
+    "numberOfColumns": 4,
+    "squares": [
+      {
+        "id": "square-1",
+        "name": "corner",
+        "position": "pos-2"
+      },
+      {
+        "id": "square-2",
+        "name": "corner",
+        "position": "pos-4"
+      },
+      {
+        "id": "square-3",
+        "name": "sink",
+        "position": "pos-2"
+      },
+      {
+        "id": "square-4",
+        "name": "blank",
+        "position": "pos-1"
+      },
+      {
+        "id": "square-5",
+        "name": "pipe",
+        "position": "pos-2"
+      },
+      {
+        "id": "square-6",
+        "name": "pipe",
+        "position": "pos-1"
+      },
+      {
+        "id": "square-7",
+        "name": "corner",
+        "position": "pos-2"
+      },
+      {
+        "id": "square-8",
+        "name": "sink",
+        "position": "pos-2"
+      },
+      {
+        "id": "square-9",
+        "name": "sink",
+        "position": "pos-3"
+      },
+      {
+        "id": "square-10",
+        "name": "sink",
+        "position": "pos-1"
+      },
+      {
+        "id": "square-11",
+        "name": "blank",
+        "position": "pos-1"
+      },
+      {
+        "id": "square-12",
+        "name": "blank",
+        "position": "pos-1"
+      }
+    ]
+  },
+  "stats": {
+    "startedAt": 1672531200,
+    "finishedAt": null,
+    "numberOfMoves": 10,
+    "numberOfWrongAttempts": 2
+  }
+}
